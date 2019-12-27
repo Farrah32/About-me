@@ -1,8 +1,12 @@
  Hi there, Welcome!
  
  # About Me
+ 
+ ![alt text](https://media.licdn.com/dms/image/C5603AQGyQEIahVCarA/profile-displayphoto-shrink_200_200/0?e=1582761600&v=beta&t=egZV9VlhKCTYBFWRniaBDcZaIskjKyYGS-VJ0LaG8aw)
 
 I am Farrah a connector of people, solver of problems, and love working in tech. I love working with so many that work to solve incredibly challenging problems every day. People who motivate me to learn new skills, accomplish tasks I never dreamed possible, and to want to be a better person. I have been honored to speak all over the world sharing my passion for focusing on what matters, keeping an open mind, continuous desire to learn, and to lead with a smile. 
+
+
 
 ## Publications
 
@@ -18,7 +22,7 @@ I am Farrah a connector of people, solver of problems, and love working in tech.
 ## Speaking
 
 - [Open Mind Open Doors](https://www.youtube.com/watch?v=iSSOwLgFiiE), Ignite, Techoogy Association of Oregon, _May 16, 2019_
-- [Open Mind Open Doors](https://devopsdays.org/events/2019-dallas/program/farrah-campbell/), Devops Days Dallas, _August 21, 2019 
+- [Open Mind Open Doors](https://devopsdays.org/events/2019-dallas/program/farrah-campbell/), Devops Days Dallas, _August 21, 2019_
 - [Serverless State of Mind](https://www.youtube.com/watch?v=QNBsatEjmtc), Sydney Serverless Days _August 27, 2019_ 
 - [Serverless State of Mind](https://serverless-architecture.io/speaker/farrah-campbell/), Serverless Architecture Conference - Berlin  _October 14, 2019_ 
 - [Leveling up with Serverless](https://acloud.guru/series/serverlessconf-nyc-2019/view/leveling-up-in-serverless), Serverlessconf NYC, October 9, 2019 
